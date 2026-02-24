@@ -2,7 +2,6 @@
 ## Project Description
 This project is part of the Web Development Internship.  
 The objective of this task is to convert a desktop-only webpage into a fully responsive website using CSS Media Queries.
-
 The website layout adjusts automatically for different screen sizes, especially mobile devices (max-width: 768px).
 ##  Objective
 - Convert desktop layout into mobile-friendly layout
